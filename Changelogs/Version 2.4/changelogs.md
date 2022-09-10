@@ -1,4 +1,4 @@
-# **New facility update - Version 2.4**
+# **Version 2.4 - Housekeeping**
 
 ## Short list:
 

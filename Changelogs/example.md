@@ -1,6 +1,6 @@
-#**New facility update - Version [No]**
+# **New facility update - Version [No]**
 
-##Short list:
+## Short list:
 
 - Item 1 added
 - Fixed item 2

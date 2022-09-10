@@ -1,7 +1,5 @@
 # **Version 2.4 - Housekeeping**
 
-A new facility update has been published, mostly bug fixes but a full guide is below.
-
 ## Short list:
 
 - Spectators no longer have access to drive golf-carts
@@ -14,8 +12,17 @@ A new facility update has been published, mostly bug fixes but a full guide is b
 
 | Update        | Description   |
 | ------------- | ------------- |
-| Spectators no longer have access to drive golf-carts  | A lot of complaints from Instructor that Spectators were misusing them |
-| Office names have changed  | Updated to the current occupants, the interior is still to be updated. |
-| Removed Staff lineup | This was very old and not needed, it may come back in future. |
-| Various bug fixes | Boring bug fixes as always. | 
-| Minor Lag Optimization | We've been trying to reduce lag as much as possible, this will slightly improve your experience. |
+| Spectators no longer have access to drive golf-carts  | A lot of complaints from Instructor that Spectators were misusing them. |
+| Office names have changed  | From Head Instructor+ everyone has their own office. Advisors share their office. |
+| Removed Staff lineup | Staff lineup was outdated, there might be alternative version of this coming soon. |
+| Various bug fixes | Fixed minor issues that caused the whiteboard to have a delay. Fixed broken scripts, like the staff golf-carts. | 
+| Minor Lag Optimization | Compressed some code, cleaned up RBXConnections and instances to avoid memory leaks, reduced some textures on trees for a smooother experience.|
+
+
+## Additional Notes:
+- Models now load arround your player camera. If you want the least ammount of lag possible, stay in first person.
+- The maximum average ping should be 200ms, if you experience crazy ammounts of lag, try to:
+  - Reduce the graphics quality in Roblox
+  - Improve your internet connection
+  - Deleting textures On Windows/Mac
+- If none of the following works, please DM a developer with screenshots of what's happening to you.

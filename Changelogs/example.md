@@ -5,7 +5,7 @@
 - Item 1 added
 - Fixed item 2
 
-##Full guide:
+## Full guide:
 
 | Update        | Description   |
 | ------------- | ------------- |

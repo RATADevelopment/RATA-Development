@@ -4,6 +4,7 @@
 
 - Item 1 added
 - Fixed item 2
+  - Extra info
 
 ## Full guide:
 

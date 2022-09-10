@@ -1,5 +1,7 @@
 # **Version 2.4 - Housekeeping**
 
+A new facility update has been published, mostly bug fixes but a full guide is below.
+
 ## Short list:
 
 - Spectators no longer have access to drive golf-carts

@@ -33,4 +33,4 @@
 - tristan10027 - Scripting
 - bigsmartfat - Building
 - Master1794 - Scripting
-- ChapmenGaming - Management
+- ChapmenGaming - Supervision and Management

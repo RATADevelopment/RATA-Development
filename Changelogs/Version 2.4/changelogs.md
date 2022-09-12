@@ -2,8 +2,9 @@
 
 ## Short list:
 
-- Spectators no longer have access to drive golf-carts
+- Cars have been removed... for now...
 - Office names have changed
+- Instructors now have a parking space :)
 - Removed Staff lineup
 - Various bug fixes
 - Minor Lag Optimization
@@ -12,8 +13,9 @@
 
 | Update        | Description   |
 | ------------- | ------------- |
-| Spectators no longer have access to drive golf-carts  | A lot of complaints from Instructor that Spectators were misusing them. |
+| Cars have been removed | Cars have been creating a lot of lag and were also being misused by staff. However we might see them again👀|
 | Office names have changed  | From Head Instructor+ everyone has their own office. Advisors share their office. |
+| Instructors now have a parking space  | This is just a small aesthetic change since there are no longer cars, but we just wanted equality for all. |
 | Removed Staff lineup | Staff lineup was outdated, there might be alternative version of this coming soon. |
 | Various bug fixes | Fixed minor issues that caused the whiteboard to have a delay. Fixed broken scripts, like the staff golf-carts. | 
 | Minor Lag Optimization | Compressed some code, cleaned up RBXConnections and instances to avoid memory leaks, reduced some textures on trees for a smooother experience.|
@@ -26,3 +28,9 @@
   - Improve your internet connection
   - Deleting textures On Windows/Mac
 - If none of the following works, please DM a developer with screenshots of what's happening to you.
+
+## Credits:
+- tristan10027 - Scripting
+- bigsmartfat - Building
+- Master1794 - Scripting
+- ChapmenGaming - Management

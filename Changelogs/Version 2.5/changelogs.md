@@ -32,7 +32,7 @@
 - Halloween is a marketing scam
 
 ## Credits:
-- tristan10027 - Scripting, Writing this amazing changelog
+- tristan10027 - Scripting
 - bigsmartfat - Building
-- Master1794 - Scripting
-- ChapmenGaming - Supervision and Management
+- Master1794 - Scripting & Particle effects
+- ChapmenGaming - Building & Management

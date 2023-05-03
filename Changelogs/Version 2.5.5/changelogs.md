@@ -18,3 +18,4 @@
 
 ## Credits:
 - Master1794 - Gun Scripting
+- VoidedRange - Gun Models
